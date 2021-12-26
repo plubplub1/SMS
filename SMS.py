@@ -1,8 +1,8 @@
 import requests, random, datetime, sys, time, argparse, os, colorama
 os.system("clear")
 banner = """\033[36m
-อยู่เฉยๆอย่าดิ้น  
-  BY:SCK SpamerSMS
+อยู่เฉยๆอย่าดิ้นนะเบบี๋
+  BY:MIDNIGHT
 """
 print(banner)
 _phone = input('\033[36m(66ตามด้วยเบอร์)>>\033[0m \033[35m ')
